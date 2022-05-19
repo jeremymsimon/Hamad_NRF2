@@ -1,7 +1,7 @@
 
 ## Hamad et al. 2022
-## DOI: 10.1038/s41388-022-02348-0 
-## https://www.nature.com/articles/s41388-022-02348-0
+#### DOI: 10.1038/s41388-022-02348-0 
+#### https://www.nature.com/articles/s41388-022-02348-0
 
 This repository contains `R` code to generate some of the figures
 presented in Hamad *et al.* 2022.
